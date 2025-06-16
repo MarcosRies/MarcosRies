@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Marcos Roberto Ries
 
-<!--
-**MarcosRies/MarcosRies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+Me chamo Marcos Roberto Ries, tenho 20 anos e sou natural do Rio Grande do Sul.
+Atualmente estou cursando o 2° semestre de Análise e Desevolvimento de Sistemas
+na Cesuca. Estou à procura da minha primeira vaga de estágio ou back-end junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+
+<img
+    align = "left"
+    alt = "Python"
+    title = "Python"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+          
