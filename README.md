@@ -22,7 +22,7 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou back-end junio
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🩺 Guia Médico](https://github.com/MarcosRies/guiamedico) | Sistema para consultar doenças, sintomas e tratamentos. | Python |
+| [🩺 Guia Médico](https://www.online-python.com/7svjSc81ew) | Sistema para consultar doenças, sintomas e tratamentos. | Python |
 <br><br>
 
 ### 🌐 Redes Sociais e contatos
