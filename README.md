@@ -4,18 +4,26 @@
 
 Me chamo Marcos Roberto Ries, tenho 20 anos e sou natural do Rio Grande do Sul.
 Atualmente estou cursando o 2° semestre de Análise e Desevolvimento de Sistemas
-na Cesuca. Estou à procura da minha primeira vaga de estágio ou back-end junior.
+na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor front-end junior.
 
 ### 🤖 Linguagens e Tecnologias
 
 <img
     align = "left"
-    alt = "Python"
-    title = "Python"
+    alt = "HTML"
+    title = "HTML"
     width = "30px"
     style = "padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img
+   align = "left"
+    alt = "CSS"
+    title = "CSS"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    
 <br><br>
 
 ### 💼 Meus Projetos
