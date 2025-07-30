@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Roberto Ries
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Marcos Roberto Ries, tenho 20 anos e sou natural do Rio Grande do Sul.
 Atualmente estou cursando o 2° semestre de Análise e Desevolvimento de Sistemas
