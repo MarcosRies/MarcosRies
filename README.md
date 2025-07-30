@@ -30,6 +30,7 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [🩺 Projeto Instagram](https://marcosries.github.io/Projeto-instagram/) | Cópia do layout do instagram, parte de login e cadastro | CSS, HTML |
 | [🩺 Guia Médico](https://www.online-python.com/7svjSc81ew) | Sistema para consultar doenças, sintomas e tratamentos. | Python |
 <br><br>
 
