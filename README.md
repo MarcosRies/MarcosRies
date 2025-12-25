@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Marcos Roberto Ries, tenho 20 anos e sou natural do Rio Grande do Sul.
-Atualmente estou cursando o 2° semestre de Análise e Desevolvimento de Sistemas
+Me chamo Marcos Roberto Ries, tenho 21 anos e sou natural do Rio Grande do Sul.
+Atualmente estou cursando o 3° semestre de Ciência da Computação
 na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor front-end junior.
 
 ### 🤖 Linguagens e Tecnologias
