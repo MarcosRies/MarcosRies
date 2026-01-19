@@ -38,6 +38,8 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+
+| [🤖 Automação de Cadastro de Produtos](https://github.com/MarcosRies/Automa-o-de-Cadastro-de-Produtos-em-Sistema-Web-Python-RPA-) | Automação de cadastro em sistema web usando RPA | Python, PyAutoGUI, Pandas |
 | [💼 Projeto Pagina de Login](https://marcosries.github.io/Pagina-de-login/) | Uma pagina de login e cadastro | CSS, HTML |
 | [💼 Projeto Primeiro Site](https://marcosries.github.io/Primeiro-site/) | Um exemplo de site de uma empresa | CSS, HTML |
 | [📱 Projeto Feed](https://marcosries.github.io/Projeto-feed/) | Projet Feed de Rede Social | CSS, HTML |
