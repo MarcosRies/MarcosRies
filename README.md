@@ -38,6 +38,7 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [🤖 Classificação de Score de Crédito com Machine Learning](https://github.com/MarcosRies/Classifica-o-de-Score-de-Cr-dito-com-Machine-Learning) | Modelo de IA para classificar clientes em score de crédito (Ruim, Ok ou Bom) | Python, Pandas, Scikit-learn |
 | [📊 Análise de Cancelamento de Clientes](https://github.com/MarcosRies/An-lise-de-Cancelamento-de-Clientes-com-Python) | Análise de dados para identificar causas do cancelamento de clientes (churn) e gerar insights de negócio | Python, Pandas, Plotly |
 | [🤖 Automação de Cadastro de Produtos](https://github.com/MarcosRies/Automa-o-de-Cadastro-de-Produtos-em-Sistema-Web-Python-RPA-) | Automação de cadastro em sistema web usando RPA | Python, PyAutoGUI, Pandas |
 | [💼 Projeto Pagina de Login](https://marcosries.github.io/Pagina-de-login/) | Uma pagina de login e cadastro | CSS, HTML |
