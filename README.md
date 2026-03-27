@@ -42,8 +42,7 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
 | [🤖 Classificação de Score de Crédito com Machine Learning](https://github.com/MarcosRies/Classifica-o-de-Score-de-Cr-dito-com-Machine-Learning) | Modelo de IA para classificar clientes em score de crédito (Ruim, Ok ou Bom) | Python, Pandas, Scikit-learn |
 | [📊 Análise de Cancelamento de Clientes](https://github.com/MarcosRies/An-lise-de-Cancelamento-de-Clientes-com-Python) | Análise de dados para identificar causas do cancelamento de clientes (churn) e gerar insights de negócio | Python, Pandas, Plotly |
 | [🤖 Automação de Cadastro de Produtos](https://github.com/MarcosRies/Automa-o-de-Cadastro-de-Produtos-em-Sistema-Web-Python-RPA-) | Automação de cadastro em sistema web usando RPA | Python, PyAutoGUI, Pandas |
-| [📊 Automação de Relatórios de Vendas com Python](https://github.com/MarcosRies/Automa-o-de-Relat-rios-de-Vendas-com-Python) | Geração e envio automático de relatórios de vendas | Python, PyAutoGUI, Pandas |
-<br><br>
+| [📊 Automação de Relatórios de Vendas com Python](https://github.com/MarcosRies/Automa-o-de-Relat-rios-de-Vendas-com-Python) | Geração e envio automático de relatórios de vendas | Python, PyAutoGUI, Pandas |<br><br>
 
 ### 🌐 Redes Sociais e contatos
 
