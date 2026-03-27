@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Roberto Ries
 
-**`Estudante de Ciência da Computação | Análise de Dados com Python`**
+**`Data Analytics | Python | SQL (em aprendizado)`**
 
 Me chamo Marcos Roberto Ries, tenho 21 anos e sou natural do Rio Grande do Sul.
 Atualmente estou cursando o 3° semestre de Ciência da Computação
