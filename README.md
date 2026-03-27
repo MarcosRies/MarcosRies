@@ -30,7 +30,8 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
     title = "Jupyter"
     width = "30px"
     style = "padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+          
     
 <br><br>
 
