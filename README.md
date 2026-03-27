@@ -2,9 +2,13 @@
 
 **`Data Analytics | Python | SQL (em aprendizado)`**
 
-Me chamo Marcos Roberto Ries, tenho 21 anos e sou natural do Rio Grande do Sul.
-Atualmente estou cursando o 3° semestre de Ciência da Computação
-na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor front-end junior.
+Estudante de Ciência da Computação (3º semestre) com foco em análise de dados e desenvolvimento de soluções orientadas a métricas.
+
+Experiência prática com Python na manipulação, análise e visualização de dados utilizando Pandas, além de automação de processos e construção de dashboards.
+
+Atualmente aprofundando conhecimentos em SQL e análise de dados aplicada a problemas de negócio.
+
+Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
 
 ### 🤖 Linguagens e Tecnologias
 
