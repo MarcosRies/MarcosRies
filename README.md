@@ -31,6 +31,21 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
     width = "30px"
     style = "padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
+<img
+   align = "left"
+    alt = "Plotly"
+    title = "Plotly"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+<img
+   align = "left"
+    alt = "Scikit-learn"
+    title = "Scikit-learn"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
           
     
 <br><br>
