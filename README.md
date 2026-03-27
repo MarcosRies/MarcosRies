@@ -43,10 +43,6 @@ na Cesuca. Estou à procura da minha primeira vaga de estágio ou desenvolvedor 
 | [📊 Análise de Cancelamento de Clientes](https://github.com/MarcosRies/An-lise-de-Cancelamento-de-Clientes-com-Python) | Análise de dados para identificar causas do cancelamento de clientes (churn) e gerar insights de negócio | Python, Pandas, Plotly |
 | [🤖 Automação de Cadastro de Produtos](https://github.com/MarcosRies/Automa-o-de-Cadastro-de-Produtos-em-Sistema-Web-Python-RPA-) | Automação de cadastro em sistema web usando RPA | Python, PyAutoGUI, Pandas |
 | [📊 Automação de Relatórios de Vendas com Python](https://github.com/MarcosRies/Automa-o-de-Relat-rios-de-Vendas-com-Python) | Geração e envio automático de relatórios de vendas | Python, PyAutoGUI, Pandas |
-| [💼 Projeto Pagina de Login](https://marcosries.github.io/Pagina-de-login/) | Uma pagina de login e cadastro | CSS, HTML |
-| [💼 Projeto Primeiro Site](https://marcosries.github.io/Primeiro-site/) | Um exemplo de site de uma empresa | CSS, HTML |
-| [📱 Projeto Feed](https://marcosries.github.io/Projeto-feed/) | Projet Feed de Rede Social | CSS, HTML |
-| [🩺 Guia Médico](https://www.online-python.com/7svjSc81ew) | Sistema para consultar doenças, sintomas e tratamentos. | Python |
 <br><br>
 
 ### 🌐 Redes Sociais e contatos
