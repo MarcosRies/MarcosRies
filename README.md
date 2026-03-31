@@ -59,11 +59,10 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📊 Análise de Churn e Identificação de Fatores de Cancelamento](https://github.com/MarcosRies/An-lise-de-Cancelamento-de-Clientes-com-Python) | Análise de dados para identificar causas do cancelamento de clientes (churn) e gerar insights de negócio | Python, Pandas, Plotly |
+| [📊 Análise de Vendas (ETL)](https://github.com/MarcosRies/etl-python-vendas-chocolate) | Projeto de ETL e análise de dados de vendas globais de chocolate (2022–2025), com foco em crescimento, ticket médio e desempenho de produtos | Python, Pandas, Plotly |
 | [📊 Análise de Dados Empresariais com Python](https://github.com/MarcosRies/analise-dados-empresa) | Análise de dados para geração de métricas de desempenho (KPIs) e apoio à tomada de decisão | Python, Pandas |
 | [📊 Automação e Análise de Relatórios de Vendas](https://github.com/MarcosRies/Automa-o-de-Relat-rios-de-Vendas-com-Python) | Desenvolvimento de solução em Python para geração automatizada de relatórios de vendas, com análise de dados e envio automatizado de informações. | Python, PyAutoGUI, Pandas |
 | [🤖 Classificação de Score de Crédito com Machine Learning](https://github.com/MarcosRies/Classifica-o-de-Score-de-Cr-dito-com-Machine-Learning) | Modelo de IA para classificar clientes em score de crédito (Ruim, Ok ou Bom) | Python, Pandas, Scikit-learn |
-| [🤖 Automação de Cadastro de Produtos](https://github.com/MarcosRies/Automa-o-de-Cadastro-de-Produtos-em-Sistema-Web-Python-RPA-) | Automação de cadastro em sistema web usando RPA | Python, PyAutoGUI, Pandas |
-| [💬 Chatbot com IA Generativa usando Streamlit](https://github.com/MarcosRies/Chatbot-com-IA-Generativa-usando-Streamlit) | Aplicação web de chatbot desenvolvida em Python utilizando Streamlit e integração com modelos de linguagem, com histórico de conversas em sessão | Python, Streamlit, OpenAI |<br><br>
 
 ### 🌐 Redes Sociais e contatos
 
