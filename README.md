@@ -13,6 +13,23 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
 ### 🤖 Linguagens e Tecnologias
 
 <img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="./images/powerbi.png"
+/>
+
+<img
+    align = "left"
+    alt = "SQL"
+    title = "SQL"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+
+<img
     align = "left"
     alt = "Python"
     title = "Python"
