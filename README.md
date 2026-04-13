@@ -37,14 +37,6 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/MarcosRies/images/main/Powerbiimg.png"
 />
-<img
-    align="left"
-    alt="Power BI"
-    title="Power BI"
-    width="30px"
-    style="padding-right: 10px;"
-    src="./images/Powerbiimg.png"
-/>
 
 <img
     align = "left"
