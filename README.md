@@ -13,9 +13,17 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
 ### 🤖 Linguagens e Tecnologias
 
 <img
+    align = "left"
+    alt = "SQL"
+    title = "SQL"
+    width = "30px"
+    style = "padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+
+<img
     align="left"
-    alt="Power BI"
-    title="Power BI"
+    alt="Excel"
+    title="Excel"
     width="30px"
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/MarcosRies/images/main/EXCEL.png"
@@ -37,14 +45,6 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
     style="padding-right: 10px;"
     src="./images/Powerbiimg.png"
 />
-
-<img
-    align = "left"
-    alt = "SQL"
-    title = "SQL"
-    width = "30px"
-    style = "padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
 <img
     align = "left"
