@@ -18,7 +18,7 @@ Interesso-me por transformar dados em insights que apoiem a tomada de decisão.
     title="Power BI"
     width="30px"
     style="padding-right: 10px;"
-    src="./images/powerbi.png"
+    src="./images/Powerbiimg.png"
 />
 
 <img
