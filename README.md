@@ -62,7 +62,7 @@ Já construí um pipeline ETL completo, com ingestão a partir de API pública, 
 </p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/MarcosRies/analisador-csv">analisador-csv</a></h4>
+<h4><a href="https://github.com/MarcosRies/analisador-csv-spotify">analisador-csv</a></h4>
 <p>Leitura, limpeza e análise exploratória de base de dados em CSV.</p>
 <p><strong>O que foi feito</strong></p>
 <ul>
